@@ -1,3 +1,1 @@
-# Auto trigger test at <current time>
-# Auto build test from Jenkins webhook
-# Build test from Jenkins step-3
+# Real Time DevOps Project | Deploy to Kubernetes Using Jenkins | End to End DevOps Project | CI/CD
